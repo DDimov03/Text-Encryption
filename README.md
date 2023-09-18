@@ -11,13 +11,13 @@ This Python application provides a simple graphical user interface (GUI) for tex
 ## Getting Started (If you are not on Windows)
 1. Ensure you have Python 3.x installed on your system.
 2. Install the required libraries by running the following command:
-   ```
-   pip install tkinter cryptography
-   ```
+```
+pip install tkinter cryptography
+```
 4. Clone this repository to your local machine:
-   ```
-   git clone https://github.com/yourusername/text-encryption-app.git
-   ```
+```
+git clone https://github.com/yourusername/text-encryption-app.git
+```
 5. Navigate to the project directory:
 ```
 cd text-encryption-app
