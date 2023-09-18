@@ -3,6 +3,9 @@
 ## Overview
 This Python application provides a simple graphical user interface (GUI) for text encryption using the Advanced Encryption Standard (AES) algorithm in Cipher Block Chaining (CBC) mode. It utilizes the Tkinter library for GUI development and the cryptography library for AES encryption.
 
+![Encryption](https://github.com/DDimov03/Text-Encryption/assets/110220663/ba0b504e-0d32-4f23-aa25-84a77e34c1f4)
+
+
 ## Features
 - User-friendly GUI for text input and encryption.
 - Generates a random AES key for each encryption session.
